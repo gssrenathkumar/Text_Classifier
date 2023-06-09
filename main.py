@@ -2,7 +2,7 @@ from textSummarizer.pipeline.stage_01_data_ingestion import DataIngestionTrainin
 from textSummarizer.logging import logger
 
 
-STAGE_NAME="Data Ingestion stage"
+STAGE_NAME = "Data Ingestion stage"
 
 try:
     logger.info(f">>>> stage {STAGE_NAME} started <<<<<")
