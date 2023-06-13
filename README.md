@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>End-to-end Text Summarizer Project</title>
 </head>
 <body>
     <h1>End-to-end Text Summarizer Project</h1>
