@@ -13,6 +13,7 @@ Our application follows a well-defined process to ensure reliable and high-quali
 5. **User Interface**: We have developed a user-friendly interface powered by Flask API. Simply input your text into the provided input box, and our application will process it through the summarization model.
 6. **Summary Generation**: Within seconds, you will receive a well-crafted summary that distills the essential information from your text.
 
+
 ## Key Features
 
 - The summaries are formulated in the third person, providing a comprehensive overview of the key topics discussed.
