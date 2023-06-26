@@ -22,17 +22,24 @@ Our application follows a well-defined process to ensure reliable and high-quali
 ## How to Run?
 
 To run the Text Summarization Application, follow these steps:
-
+ ```
 1. Clone the repository: https://github.com/gssrenathkumar/Text_Summarization.git
-2. Create a conda environment and activate it: conda create -n summary python=3.8 -y
+ ```
+
+2. Create a conda environment and activate it:
+ ```
+conda create -n summary python=3.8 -y
 conda activate summary
-
-3. Install the requirements: pip install -r requirements.txt
+ ```
+5. Install the requirements:
+ ```
+pip install -r requirements.txt
+ ```
+ ```   
+8. Run the application: python app.py
+ ```
    
-4. Run the application: python app.py
-
-   
-5. Open your local host and port to access the application.
+9. Open your local host and port to access the application.
 
 ## Author
 
@@ -69,6 +76,7 @@ To deploy the Text Summarization Application using AWS and GitHub Actions, follo
   ```
   # Install Docker
   curl -fsSL
+  ```
 
 
 
